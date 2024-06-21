@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Textutils-bysahilphadke/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/Textutils-bysahilphadke/static/js/main.ef380fd7.chunk.js",
+    "main.js.map": "/Textutils-bysahilphadke/static/js/main.ef380fd7.chunk.js.map",
+    "runtime-main.js": "/Textutils-bysahilphadke/static/js/runtime-main.c3507a37.js",
+    "runtime-main.js.map": "/Textutils-bysahilphadke/static/js/runtime-main.c3507a37.js.map",
+    "static/js/2.12d3a3ae.chunk.js": "/Textutils-bysahilphadke/static/js/2.12d3a3ae.chunk.js",
+    "static/js/2.12d3a3ae.chunk.js.map": "/Textutils-bysahilphadke/static/js/2.12d3a3ae.chunk.js.map",
+    "static/js/3.b5bd36bd.chunk.js": "/Textutils-bysahilphadke/static/js/3.b5bd36bd.chunk.js",
+    "static/js/3.b5bd36bd.chunk.js.map": "/Textutils-bysahilphadke/static/js/3.b5bd36bd.chunk.js.map",
+    "index.html": "/Textutils-bysahilphadke/index.html",
+    "precache-manifest.e8d014c248ac1f884c8d15955fbae23d.js": "/Textutils-bysahilphadke/precache-manifest.e8d014c248ac1f884c8d15955fbae23d.js",
+    "service-worker.js": "/Textutils-bysahilphadke/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/Textutils-bysahilphadke/static/css/main.435d5fe5.chunk.css.map",
+    "static/js/2.12d3a3ae.chunk.js.LICENSE.txt": "/Textutils-bysahilphadke/static/js/2.12d3a3ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3507a37.js",
+    "static/js/2.12d3a3ae.chunk.js",
+    "static/css/main.435d5fe5.chunk.css",
+    "static/js/main.ef380fd7.chunk.js"
+  ]
+}
